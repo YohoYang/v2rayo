@@ -1,5 +1,5 @@
 #制作说明  
-基于https://github.com/hyqhyq3/v2tray制作，简化使用步骤。  
+基于 https://github.com/hyqhyq3/v2tray 制作，简化使用步骤。  
 因代码完全与v2tray相同，只修改了少部分运行结构和图标，只放上编译好的exe，如需要再开发直接下载v2tray即可。  
 
 #使用说明  
